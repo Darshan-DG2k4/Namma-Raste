@@ -1,0 +1,2 @@
+Namma-Raste Reporter is an Android application developed to report infrastructure issues such as potholes, broken streetlights, and road damage. The app allows users to capture issue images, detect GPS location automatically, generate ticket IDs, and track submitted reports.
+Built using Kotlin, Jetpack Compose, CameraX, Room Database, and Firebase Authentication as part of the MindMatrix VTU Internship Program.
