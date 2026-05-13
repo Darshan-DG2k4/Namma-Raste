@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193787031225",
+    "project_id": "namma-raste-f4d38",
+    "storage_bucket": "namma-raste-f4d38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193787031225:android:070ec7c1303531853eb568",
+        "android_client_info": {
+          "package_name": "com.namma.raste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGq5kyHd1V13A5b586cYujSUS6jxMn84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

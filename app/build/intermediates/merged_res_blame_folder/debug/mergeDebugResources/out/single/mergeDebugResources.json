@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_fragment_preview.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/fragment_preview.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_ic_email.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_item_report.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/item_report.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_fragment_login.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_activity_splash.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/navigation_nav_graph.xml.flat",
+        "source": "com.namma.raste.app-main-72:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_fragment_tracker.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/fragment_tracker.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_ic_lock.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_ic_camera.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_bg_issue_unselected.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/bg_issue_unselected.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_activity_main.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_bg_login_header.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/bg_login_header.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_fragment_camera.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_circle_bg.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_bg_issue_selected.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/bg_issue_selected.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_ic_person.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_fragment_home.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/layout_fragment_profile.xml.flat",
+        "source": "com.namma.raste.app-main-72:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/drawable_bg_login_road.xml.flat",
+        "source": "com.namma.raste.app-main-72:/drawable/bg_login_road.xml"
+    },
+    {
+        "merged": "com.namma.raste.app-debug-70:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.namma.raste.app-main-72:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
