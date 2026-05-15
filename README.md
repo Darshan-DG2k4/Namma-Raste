@@ -26,6 +26,9 @@ NammaRaste is an Android application that empowers citizens to report infrastruc
 - ☁️ **Firebase Firestore Sync** — Reports synced to Firestore cloud for cross-device access and backup.
 - ⚡ **Real-time LiveData Updates** — Home screen updates instantly when a new report is submitted — no manual refresh needed.
 - 🏗️ **MVVM Architecture** — Clean separation of concerns: Fragment → ViewModel → Repository → Room DAO.
+- 👤 **User Profile** — personalized profile section to manage user information and track submitted reports
+- 📤 **Share Report** — easily share reported issues and updates with others through generated links or social platforms
+ 
 
 ---
 
@@ -225,9 +228,7 @@ The app follows an **offline-first** approach:
 - 🗺️ Map view — visualise all reported issues on an interactive map
 - 🔔 Push notifications — alert citizens when report status changes
 - 🤖 AI issue detection — auto-classify issue type from photo using ML Kit
-- 👮 Admin dashboard — municipality portal to manage and update report statuses
 - 📊 Analytics screen — charts showing issue types and resolution rates by area
-- 📤 CSV export — export report history for offline records
 
 ---
 
