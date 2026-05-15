@@ -232,16 +232,6 @@ The app follows an **offline-first** approach:
 
 ---
 
-## 👥 Team
-
-Built as part of the **MindMatrix Industry Readiness Programme — Android Internship**
-
-| Role | Responsibility |
-|---|---|
-| Team Lead | Architecture, Firebase integration, Firestore sync |
-| DB Handler | Room DB schema, DAO, local data layer |
-| UI Developer | Fragments, XML layouts, LiveData observers |
-
 ---
 
 ## 📄 License
