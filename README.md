@@ -10,9 +10,9 @@ NammaRaste is an Android application that empowers citizens to report infrastruc
 
 | Login Screen | Home Screen | Report Submission | Report Detail |
 |---|---|---|---|
-| https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/login.jpeg | https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Home%20screen.jpeg | https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/ticket%20submission.jpeg| https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/report%20detail.jpeg |
+|https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Screenshots/login.jpeg | https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Screenshots/Home%20screen.jpeg | https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Screenshots/ticket%20submission.jpeg| https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Screenshots/report%20detail.jpeg |
 
-> 📸 *Add your app screenshots to a `screenshots/` folder in the root of the repo and update the paths above.*
+
 
 ---
 
