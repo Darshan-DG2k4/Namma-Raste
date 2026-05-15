@@ -10,7 +10,7 @@ NammaRaste is an Android application that empowers citizens to report infrastruc
 
 | Login Screen | Home Screen | Report Submission | Report Detail |
 |---|---|---|---|
-|https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Screenshots/login.jpeg | https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Screenshots/Home%20screen.jpeg | https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Screenshots/ticket%20submission.jpeg| https://github.com/Darshan-DG2k4/Namma-Raste/blob/master/Screenshots/report%20detail.jpeg |
+| ![Login](Screenshots/login.jpeg) | ![Home](Screenshots/Home%20screen.jpeg) | ![Submit](Screenshots/ticket%20submission.jpeg) | ![Detail](Screenshots/report%20detail.jpeg) |
 
 
 
@@ -24,7 +24,6 @@ NammaRaste is an Android application that empowers citizens to report infrastruc
 - 🎫 **Unique Ticket ID Generation** — Every report gets a unique ID (format: `NR-YYYYMMDD-NNNN`) for tracking.
 - 🗂️ **Local Report Storage (Room DB)** — All reports saved locally using Room Database (SQLite) for offline access.
 - ☁️ **Firebase Firestore Sync** — Reports synced to Firestore cloud for cross-device access and backup.
-- 📋 **Report Status Tracking** — Track each report through its lifecycle: `SUBMITTED → IN_PROGRESS → RESOLVED`.
 - ⚡ **Real-time LiveData Updates** — Home screen updates instantly when a new report is submitted — no manual refresh needed.
 - 🏗️ **MVVM Architecture** — Clean separation of concerns: Fragment → ViewModel → Repository → Room DAO.
 
