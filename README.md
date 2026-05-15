@@ -10,7 +10,7 @@ NammaRaste is an Android application that empowers citizens to report infrastruc
 
 | Login Screen | Home Screen | Report Submission | Report Detail |
 |---|---|---|---|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Submit](screenshots/submit.png) | ![Detail](screenshots/detail.png) |
+| login.jpeg | Home screen.jpeg | ticket submission.jpeg | report detail.jpeg |
 
 > 📸 *Add your app screenshots to a `screenshots/` folder in the root of the repo and update the paths above.*
 
